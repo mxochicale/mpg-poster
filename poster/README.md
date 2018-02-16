@@ -7,3 +7,9 @@ poster
 PROJECT TITLE: eMOTION: Analysis of Emotion and Movement Variability in the Context of Human-Robot Interaction
 AUTHOR: MIGUEL P XOCHICALE
 
+
+
+# Some ideas for the poster
+
+* Use this template for the poster [:link:](https://github.com/mxochicale/hai2017/tree/master/poster)
+* Add NAO at the beginning of the poster as shown here https://twitter.com/KatieJWinkle/status/960521401567449088
