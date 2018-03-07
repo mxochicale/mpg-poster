@@ -23,9 +23,13 @@ AUTHOR: MIGUEL P XOCHICALE
 
 
 
-Come to see my poster entitled: 
+* Come to see my poster entitled: 
 "eMOTION: Analysis of Emotion and Movement Variability in the Context of Human-Robot Interaction"
 for the MPG Student Prize Award today from 18h00m at @AstonUniversity
 
+
+
+* This evening, I am presenting some advances of my scientific endeavours 
+at the MPG Student Prize Award (18h00m-21h00m) at @AstonUniversity.
 
 
