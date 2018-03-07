@@ -13,6 +13,6 @@
 
 
 ```
-convert -verbose -density 50 -trim finalversion.pdf -quality 100 -flatten -sharpen 0x1.0 finalversion_jpg.jpg
+convert -verbose -density 50 -trim print_version_A1.pdf -quality 100 -flatten -sharpen 0x1.0 finalversion_jpg.jpg
 ```
 
