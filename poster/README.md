@@ -7,19 +7,12 @@ poster
 PROJECT TITLE: eMOTION: Analysis of Emotion and Movement Variability in the Context of Human-Robot Interaction
 AUTHOR: MIGUEL P XOCHICALE
 
-
-
-# Some ideas for the poster
-
-* Use this template for the poster [:link:](https://github.com/mxochicale/hai2017/tree/master/poster)
-* Add NAO at the beginning of the poster as shown here https://twitter.com/KatieJWinkle/status/960521401567449088
+![poster](https://github.com/mxochicale/mpg-poster/blob/master/poster/main/finalversion_jpg.jpg)
 
 
 
 
 # TWITTER
-
-
 
 
 
@@ -30,6 +23,9 @@ for the MPG Student Prize Award today from 18h00m at @AstonUniversity
 
 
 * This evening, I am presenting some advances of my scientific endeavours 
-at the MPG Student Prize Award (18h00m-21h00m) at @AstonUniversity.
+with the use of nonlinear dynamics to analyse emotion and movement variability in 
+the context of human-robot interaction.
+See you in a bit at the MPG Student Prize Award (18h00m-21h00m) at @AstonUniversity.
+"CODE/DATA/DOCS/REFS are avaiable at: https://github.com/mxochicale/mpg-poster" 
 
 
