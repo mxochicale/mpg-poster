@@ -15,29 +15,14 @@ community. The culmination of the event is a prize giving to those
 students deemed to be 'best in class'.
 
 ## DATE & TIME
-Wednesday 7 March 2018 6:00 pm GMT
-
-## END DATE & TIME
+Wednesday 7 March 2018 6:00 pm GMT   
 Wednesday 7 March 2018 9:00 pm GMT
 
-## EVENT LINK
 https://www.theiet.org/events/local/253075.cfm
 
-## TICKET LINK
-https://localevents.theiet.org/3393a3
-
-
-**booking reference 2018-207d-0310**
-
-
-## ADDRESS
-Aston Triangle
-Birmingham, B4 7ET
-United Kingdom
-
-
-
-
+Aston Triangle    
+Birmingham, B4 7ET    
+United Kingdom   
 
 
 ## EMAIL INVITATION
@@ -69,7 +54,8 @@ Pietro
 ---
 Dr Pietro Tricoli
 Energy Programme Leader
-Senior Lecturer in Electrical Power & Control Department of Electronic, Electrical and Computer Engineering [university_logo_mini2] Birmingham
+Senior Lecturer in Electrical Power Control     
+Department of Electronic, Electrical and Computer Engineering [university_logo_mini2] Birmingham
 B15 2TT
 T. +44 (0) 121 414 3518
 E. p.tricoli@bham.ac.uk<mailto:p.tricoli@bham.ac.uk>
@@ -92,6 +78,67 @@ Pietro Tricoli
 Energy Programme Leader
 
 
+
+## WINNERS from University of Birmingham
+
+```
+RE: MPG Student Prize Giving Event - 7 March 2018
+Pietro Tricoli
+Sent:	Thursday, March 08, 2018 8:49 AM
+To:	
+Miguel Perez Xochicale (PhD Dept ElecElecComp Eng FT); Xiaofeng Jiang; Rana Moeini (School of Civil Engineering)
+Cc:	
+Peter Gardner
+
+
+Dear All,
+  Many thanks for attending the IET MPG Prize Awards yesterday. 
+Your contribution has been determinant for the success of the 
+event and I was impressed by the quality of the 
+research carried out in our Department.
+Congratulations to Rana for winning one of the prizes and thanks 
+to all of you for your participation. 
+I hope you enjoyed the evening as much as I did.
+Best wishes,
+Pietro
+ 
+ 
+---
+Dr Pietro Tricoli
+Energy Programme Leader
+Senior Lecturer in Electrical Power & Control
+Department of Electronic, Electrical and Computer Engineering
+university_logo_mini2
+Birmingham
+B15 2TT
+T. +44 (0) 121 414 3518
+E. p.tricoli@bham.ac.uk
+Twitter: @PietroTricoli
+
+```
+
+
+
+
+## RAW COMMENTS OF MY PARTICIPATION 
+
+This is my first time in participating in the Midlands Power Group Poster Award,
+I had a good experience when presenting my work to two judges with Engineering backgrounds
+(none of them in robotics or computer science). 
+
+One of the questions that still make echo in my head is what is the hardest part of 
+creating and conducting experiments in the context of human-robot interaction, so my 
+answer was simple: "the mathematical foundation to provide scientific evidence of the measurement
+of movement variability". The judges also questioned me about my next goal in my 
+research something like long term goal and my answer was simple:
+"use deep learning to automatically measure movement variability and the make impact 
+in areas such as rehabilitation, elderly care, child-robot interaction, sport science, 
+entertainment to mention but a few."
+I did not get any price but the exercise of sharing my ideas and be judges 
+by engineers of 30 to 40 years of experience was very valuable. Specially,
+as I explain what I do to other people, my thoughts in some way reorganise themselves 
+and refine my explanations and make a clear and simple point of the things
+that I am doing can contribute to the creation of a better world.
 
 
 
